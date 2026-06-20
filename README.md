@@ -38,10 +38,7 @@ HousePricePrediction/
 │── analysis.ipynb
 │── Housing.csv
 │── summary.pdf
-└── charts/
-    ├── histogram.png
-    ├── correlation_heatmap.png
-    └── actual_vs_predicted.png
+└── charts
 ```
 
 ## Author
